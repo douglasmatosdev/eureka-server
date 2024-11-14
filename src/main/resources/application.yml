@@ -1,6 +1,6 @@
 spring:
   application:
-    name: eurikaserver
+    name: eurekaserver
   security:
     basic:
         enabled: true
